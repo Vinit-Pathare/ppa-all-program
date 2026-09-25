@@ -1,0 +1,17 @@
+Git commands
+create a new folder and after right click open git bash here
+1)git clone <Link>
+2)git check out -b <branch name>(dev)
+3)git status
+4)git add <file name>
+5)git commit -m "added changes for xyz file"gti
+6)git push origin branch name(dev)
+----------------------------------------------------------------------------------------------------------------------
+main 
+dev
+qa
+cert 
+prod
+
+
+
